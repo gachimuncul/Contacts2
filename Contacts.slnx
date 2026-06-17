@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Model/Model.csproj" Id="45709d90-4ab8-421c-804d-d425ee2f7302" />
+  <Project Path="View/View.csproj" Id="0c84b408-70a3-49f2-a13a-265a40d139be" />
+  <Project Path="ViewModel/ViewModel.csproj" Id="723b3821-ee2f-4366-bf62-ecbf3528fe9e" />
+</Solution>
