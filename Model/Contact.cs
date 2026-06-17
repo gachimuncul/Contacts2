@@ -15,7 +15,7 @@ namespace Model
         {
             get => _name;
             set => SetProperty(ref _name, value); // Новый метод уведомления
-        }
+        }//
 
         public string PhoneNumber
         {

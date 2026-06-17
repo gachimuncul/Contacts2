@@ -9,7 +9,7 @@ namespace Model.Services
     {
         private readonly string _filePath;
 
-        public ContactSerializer()
+        public ContactSerializer()//
         {
             string docsFolder = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
             _filePath = Path.Combine(docsFolder, "Contacts", "contacts.json");

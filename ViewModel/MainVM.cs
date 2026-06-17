@@ -14,7 +14,7 @@ namespace ViewModel
         private Contact _selectedContact;
         private Contact _editableContact;
         private bool _isReadOnly = true;
-        private bool _isEditing = false;
+        private bool _isEditing = false;//
 
         public ObservableCollection<Contact> Contacts
         {
